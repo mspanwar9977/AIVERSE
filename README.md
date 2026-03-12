@@ -1,3 +1,9 @@
+![GitHub stars](https://img.shields.io/github/stars/mspanwar9977/AIVERSE)
+![GitHub forks](https://img.shields.io/github/forks/mspanwar9977/AIVERSE)
+![License](https://img.shields.io/badge/license-MIT-green)
+![AI Tools](https://img.shields.io/badge/tools-1000%2B-blue)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
+
 # AIVERSE
 
 AIVERSE is an open directory of 1000+ AI tools across the modern AI ecosystem.  
